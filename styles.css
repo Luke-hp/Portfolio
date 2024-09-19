@@ -10,7 +10,9 @@
     scroll-behavior: smooth;
 }
 
-
+body {
+    z-index: 50;
+}
 
 li {
     list-style-type: none;
